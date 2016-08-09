@@ -1,0 +1,148 @@
+/*
+#07328f
+#7600bf
+#ff9eca
+Author: Icomoon
+*/
+body{
+	background-color:#07328f;
+	font-family: "Times New Roman", Times, serif;}
+header{
+	background:#ffffff;
+	text-align: right;
+}
+nav{
+	background-color: #ffffff;
+	text-align: center;
+}
+
+nav ul
+{
+	list-style-type: none;
+}
+
+nav li
+{
+	display: inline;
+}
+
+nav a
+{
+	border:1px solid #ff9eca;
+	padding: 3px;
+	color: #ff9eca;
+}
+nav a:hover
+{
+	color:#7600bf;
+}
+main
+{
+	background-color:#07328f;
+	color: #ffffff;
+	min-height: 300px;
+	border-top: 3px solid #7600bf;
+	border-bottom: 3px solid #7600bf;
+}
+
+footer
+{
+	background-color: #ffffff;
+	font-size: 0.70em;
+	text-align: center;
+	line-height: 50%;
+}
+footer a
+{
+	color: #ff9eca;
+}
+
+footer a:hover
+{
+	color: #7600bf;
+}
+
+#wrapper {
+	background-color: #ffffff;
+	width: 95%;
+	min-height: 400px;
+	margin-left: auto;
+	margin-right:auto;
+	padding: 5px;
+	box-shadow: 5px 5px 5px #ff9eca;
+	border-radius: 8px;}
+a
+{
+	text-decoration: none;
+}
+
+.fontImpact{
+	font-family:Impact,Charcoal, sans-serif; 
+}
+.roundedImage{
+	margin:10px;
+	border-radius:20px;
+
+}
+
+.floatLeft{
+	float:left;
+}
+
+.floatRight{
+	float:right;
+}
+.clearFloat{
+	clear:both;
+}
+
+.noBullets{
+	list-style: none;
+}
+.overFlow{
+	overflow: auto;
+}
+
+.italics{
+	font-style: italic;
+}
+.smallCaps{
+	font-variant:small-caps;
+	font-size:0.60em;
+}
+
+.textAlignCenter{
+	text-align:center;
+}
+.textAlignLeft{
+	text-align:left;
+}
+
+.textAlignRight{
+	text-align: right;
+}
+
+.latestDiscount{
+	background-color:#ff9eca;
+	color:#ffffff;
+	font-weight:bold;
+	padding:5px;
+	margin:10px;
+	font-variant:small-caps;
+	font-size:0.80em;
+
+}
+.hide{
+	display:none;
+}
+.unhideBlock{
+	display: block;
+}
+
+main h1{
+	font-size:2em;
+}
+
+#productsMain li{
+	display: inline-block;
+}
